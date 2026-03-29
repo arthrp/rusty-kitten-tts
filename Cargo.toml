@@ -2,6 +2,12 @@
 name = "kittentts-rs"
 version = "0.1.0"
 edition = "2024"
+authors = ["arthrp"]
+license = "AGPL-3.0-only"
+description = "Rust CLI for Kitten TTS"
+homepage = "https://github.com/arthrp/rusty-kitten-tts"
+repository = "https://github.com/arthrp/rusty-kitten-tts"
+readme = "README.md"
 
 [dependencies]
 anyhow = "1.0"
